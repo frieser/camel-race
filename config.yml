@@ -1,0 +1,6 @@
+distance: 30
+players: 10
+terrain: "SAND"
+round_time: 4
+round_divider: 2
+movement_per_round: 3
